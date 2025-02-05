@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   return (
     <div>
-      <Deck /> {/* This will display our card drawing app */}
+      <Deck /> 
     </div>
   );
 }
